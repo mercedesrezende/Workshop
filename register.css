@@ -8,10 +8,7 @@ body {
     text-align: left;
     background-color: #fff;
 }
-h1{
-  color: #E74C3C ;
-  text-align: center;
-}
-p{
-  text-align: center;
+#header
+{
+  color: black ;
 }
